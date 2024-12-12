@@ -34,11 +34,6 @@ carregat, justifica per què?
 ![Captura desde 2024-12-03 12-20-54](https://github.com/user-attachments/assets/c76bf292-cfe4-4d5b-865c-6d5c77880b90)
 
 
-• Indica quants processos tens oberts i quants estan en execució en
-aquest moment.
 
-
-• Torna a obrir Firefox i mostra el procés amb la ruta a l'executable del
-programa.
 
 
